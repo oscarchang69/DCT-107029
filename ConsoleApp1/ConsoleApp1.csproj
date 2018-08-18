@@ -102,6 +102,7 @@
     </Content>
     <Content Include="readme.txt" />
     <Content Include="readme2.txt" />
+    <Content Include="readme4.txt" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="EntityFramework">
