@@ -100,6 +100,8 @@
       <DependentUpon>ContosoUniversity.edmx</DependentUpon>
       <LastGenOutput>ContosoUniversity.cs</LastGenOutput>
     </Content>
+    <Content Include="readme.txt" />
+    <Content Include="readme2.txt" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="EntityFramework">
